@@ -43,4 +43,4 @@ Run the server
 
 ## License
 
-Licensed under the [MIT License](LICENSE)
+Licensed under the [MIT License](https://github.com/dyakupoglu/React-Todo-App/blob/main/LICENSE)
